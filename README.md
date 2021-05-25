@@ -1,4 +1,4 @@
-![](https://neutrojogos.ga/cdn/site-icon.png)
+<center>![](https://neutrojogos.ga/cdn/site-icon.png)</center>
 # COMO INSTALAR
 
 * 1)Passo 
