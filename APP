@@ -1,0 +1,16 @@
+#API DO SERVIDOR
+
+{conect}:{neutrojogos.ga/cdn/?neutro-app&start=cttc-from-54}
+//api de conectividade com o servidor
+
+[Author:]:"neutrojogos.ga/cdn/?author=ytrollgames&apt-reg"
+//conexão com o autor
+
+$client.GlobalDat(
+  if{"id":"reg"}
+);
+
+$create.ChacheFile("/c/users/cookie/{user-id}")*
+//api teste
+
+# NEUTROJOGOS

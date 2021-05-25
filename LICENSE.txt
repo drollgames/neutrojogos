@@ -1,0 +1,26 @@
+BY: yTROLLGAMES
+SITE: scm-app.neutrojogos.ga
+Github Repo: https://github.com/yTROLLGAMES/neutrojogos
+=============================================
+
+Api aa Criação Simples De Sites Em Html 
+Com Serviço "NeutroJogos" Com Código De 
+Criação Open-source
+ou Seja, Vice Pode Modificar As Apis, 
+Código, e Pode Modificar e Fazer Criações
+Com o Código do Serviço
+
+Ao Baixar, Tudo Que Você Fizer Será Por 
+Sua Responsabilidade Propia
+
+licença: neutrojogos.ga/scm-app/g7hqw
+{CRIADO POR yTROLLGAMES}:{v1.0}
+
+
+
+- Lang: pt-br
+- Source: scm-app.neutrojogos.ga
+- About: neutrojogos.ga/scm-app/about
+
+yTROLLGAMES © 2021 - All Right Reserved
+#VS.ID: 765549123
