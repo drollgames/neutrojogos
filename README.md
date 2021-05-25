@@ -3,7 +3,8 @@
 > 
 > * 👑1)Passo 
 > 
-> ```entre no site abaixo```
+> ```diff
+> entre no site abaixo```
 > 
 > aqui estar o [site](https://scm-app.neutrojogos.ga) do repositório
 > 
